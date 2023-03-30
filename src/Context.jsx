@@ -39,6 +39,7 @@ function ContextProvider({ children }) {
         allPhotos,
         toggleFavorite,
         cartItems,
+        setCartItems,
         addToCart,
         removeFromCart,
       }}
